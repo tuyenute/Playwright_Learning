@@ -1,0 +1,23 @@
+{
+  "name": "aristino-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ui": "npx playwright test --ui",
+    "codegen": "npx playwright codegen",
+    "positive": "npx playwright test --grep '@positive'",
+    "smoke": "npx playwright test --grep '@smoke'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.8.1",
+    "allure-js-commons": "^3.4.1",
+    "allure-playwright": "^3.4.1",
+    "dotenv": "^17.2.3"
+  }
+}

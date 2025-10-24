@@ -1,0 +1,1104 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e7]: TIẾP NỐI HUYỀN THOẠI
+        - link "SHOP NOW" [ref=e9] [cursor=pointer]:
+          - /url: https://aristino.com/collections/hang-moi
+      - generic [ref=e11]:
+        - link "Tìm cửa hàng" [ref=e12] [cursor=pointer]:
+          - /url: https://aristino-2.myharavan.com/pages/he-thong-cua-hang
+          - img [ref=e13]
+          - generic [ref=e19]: Tìm cửa hàng
+        - link "SUPPORT" [ref=e21] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e22]: SUPPORT
+    - banner [ref=e23]:
+      - generic [ref=e26]:
+        - link [ref=e28] [cursor=pointer]:
+          - /url: https://aristino.com
+          - img [ref=e29]
+        - list [ref=e40]:
+          - listitem [ref=e41]:
+            - link [ref=e42] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e43]
+          - listitem [ref=e45]:
+            - link [ref=e46] [cursor=pointer]:
+              - /url: /account
+              - img [ref=e47]
+          - listitem [ref=e49]:
+            - link "0" [ref=e50] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e51]
+              - generic [ref=e53]: "0"
+          - listitem [ref=e54]:
+            - link "0" [ref=e55] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e56]
+              - generic [ref=e58]: "0"
+      - generic [ref=e63]:
+        - generic [ref=e64]:
+          - link "TRANG PHỤC" [ref=e65] [cursor=pointer]:
+            - /url: /collections/trang-phuc
+          - link "PHỤ KIỆN" [ref=e66] [cursor=pointer]:
+            - /url: /collections/phu-kien
+          - link "ĐỒ DA" [ref=e67] [cursor=pointer]:
+            - /url: /collections/do-da
+          - link "THƯƠNG HIỆU" [ref=e68] [cursor=pointer]:
+            - /url: /collections/thuong-hieu
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - button "open-child" [ref=e72] [cursor=pointer]:
+              - img [ref=e73]
+            - link "Ưu đãi 🔥" [ref=e75] [cursor=pointer]:
+              - /url: /collections/gia-moi-moi-ngay
+              - generic [ref=e76]: Ưu đãi 🔥
+          - listitem [ref=e77]:
+            - button "open-child" [ref=e78] [cursor=pointer]:
+              - img [ref=e79]
+            - link "Mua nhận quà 🎁" [ref=e81] [cursor=pointer]:
+              - /url: /collections/mua-nhan-qua-1
+              - generic [ref=e82]: Mua nhận quà 🎁
+          - listitem [ref=e83]:
+            - button "open-child" [ref=e84] [cursor=pointer]:
+              - img [ref=e85]
+            - link "Bộ sưu tập" [ref=e87] [cursor=pointer]:
+              - /url: /collections/bo-suu-tap
+              - generic [ref=e88]: Bộ sưu tập
+          - listitem [ref=e89]:
+            - link "Hàng mới" [ref=e90] [cursor=pointer]:
+              - /url: /collections/hang-moi
+              - generic [ref=e91]: Hàng mới
+          - listitem [ref=e92]:
+            - button "open-child" [ref=e93] [cursor=pointer]:
+              - img [ref=e94]
+            - link "Áo" [ref=e96] [cursor=pointer]:
+              - /url: /collections/tat-ca-ao
+              - generic [ref=e97]: Áo
+          - listitem [ref=e98]:
+            - button "open-child" [ref=e99] [cursor=pointer]:
+              - img [ref=e100]
+            - link "Quần" [ref=e102] [cursor=pointer]:
+              - /url: /collections/quan
+              - generic [ref=e103]: Quần
+          - listitem [ref=e104]:
+            - button "open-child" [ref=e105] [cursor=pointer]:
+              - img [ref=e106]
+            - link "Suits" [ref=e108] [cursor=pointer]:
+              - /url: /collections/bo-suits-1
+              - generic [ref=e109]: Suits
+          - listitem [ref=e110]:
+            - button "open-child" [ref=e111] [cursor=pointer]:
+              - img [ref=e112]
+            - link "Bộ Đồ" [ref=e114] [cursor=pointer]:
+              - /url: /collections/bo
+              - generic [ref=e115]: Bộ Đồ
+          - listitem [ref=e116]:
+            - button "open-child" [ref=e117] [cursor=pointer]:
+              - img [ref=e118]
+            - link "Đồ Lót" [ref=e120] [cursor=pointer]:
+              - /url: /collections/quan-lot
+              - generic [ref=e121]: Đồ Lót
+          - listitem [ref=e122]:
+            - button "open-child" [ref=e123] [cursor=pointer]:
+              - img [ref=e124]
+            - link "Phụ Kiện" [ref=e126] [cursor=pointer]:
+              - /url: /collections/phu-kien
+              - generic [ref=e127]: Phụ Kiện
+    - main [ref=e128]:
+      - generic [ref=e131]:
+        - generic [ref=e132]:
+          - group "6 / 6" [ref=e133]:
+            - link "banner slider" [ref=e135] [cursor=pointer]:
+              - /url: https://aristino.com/collections/aristino-golf
+              - img "ARISTINO GOLF" [ref=e137]
+          - group "1 / 6" [ref=e138]:
+            - link "banner slider" [ref=e140] [cursor=pointer]:
+              - /url: https://aristino.com/collections/elite-polo
+              - img "QUÀ TẶNG ELITE POLO" [ref=e142]
+          - group "2 / 6" [ref=e143]:
+            - link "banner slider" [ref=e145] [cursor=pointer]:
+              - /url: https://aristino.com/collections/hang-moi-2025
+              - img "Hàng mới 2025" [ref=e147]
+          - group "3 / 6" [ref=e148]:
+            - link "banner slider" [ref=e150] [cursor=pointer]:
+              - /url: https://aristino.com/collections/hang-moi
+              - img "Tiếp nối huyền thoại" [ref=e152]
+          - group "4 / 6" [ref=e153]:
+            - link "banner slider" [ref=e155] [cursor=pointer]:
+              - /url: https://aristino.com/pages/elite-polo-collection
+              - img "ELITE POLO" [ref=e157]
+          - group "5 / 6" [ref=e158]:
+            - link "banner slider" [ref=e160] [cursor=pointer]:
+              - /url: https://aristino.com/collections/new-arrivals
+              - img "Tiếp nối huyền thoại" [ref=e162]
+          - group "6 / 6" [ref=e163]:
+            - link "banner slider" [ref=e165] [cursor=pointer]:
+              - /url: https://aristino.com/collections/aristino-golf
+              - img "ARISTINO GOLF" [ref=e167]
+          - group "1 / 6" [ref=e168]:
+            - link "banner slider" [ref=e170] [cursor=pointer]:
+              - /url: https://aristino.com/collections/elite-polo
+              - img "QUÀ TẶNG ELITE POLO" [ref=e172]
+        - generic [ref=e173]:
+          - button "Previous slide" [ref=e174] [cursor=pointer]:
+            - img [ref=e175]
+          - button "Next slide" [ref=e177] [cursor=pointer]:
+            - img [ref=e178]
+      - generic [ref=e183]:
+        - generic [ref=e185]:
+          - img "Aristino Uniform" [ref=e187]
+          - link [ref=e188] [cursor=pointer]:
+            - /url: https://aristino.com/
+        - generic [ref=e190]:
+          - img "Aristino Business" [ref=e192]
+          - link [ref=e193] [cursor=pointer]:
+            - /url: https://aristino.com/collections/aristino-business
+        - generic [ref=e195]:
+          - img "Aristino" [ref=e197]
+          - link [ref=e198] [cursor=pointer]:
+            - /url: https://aristino.com/
+        - generic [ref=e200]:
+          - img "Aristino Handmade" [ref=e202]
+          - link [ref=e203] [cursor=pointer]:
+            - /url: https://aristino.com/collections/aristino-golf
+        - generic [ref=e205]:
+          - img "Aristino Golf" [ref=e207]
+          - link [ref=e208] [cursor=pointer]:
+            - /url: https://aristino.com/
+      - generic [ref=e211]:
+        - iframe [ref=e213]:
+          - generic "YouTube Video Player" [ref=f1e3]:
+            - button "Copy link" [ref=f1e7] [cursor=pointer]:
+              - generic [ref=f1e8]:
+                - img
+              - generic [ref=f1e9]: Copy link
+            - link "Watch on www.youtube.com" [ref=f1e11] [cursor=pointer]:
+              - /url: https://www.youtube.com/watch?v=F9aCooq_2WU
+              - img
+        - generic [ref=e214]:
+          - switch [ref=e215] [cursor=pointer]
+          - switch [ref=e217] [cursor=pointer]
+      - generic [ref=e221]:
+        - generic [ref=e222]:
+          - group "1 / 4" [ref=e223]:
+            - link [ref=e225] [cursor=pointer]:
+              - /url: ""
+          - group "2 / 4" [ref=e227]:
+            - link "BUSINESS" [ref=e229] [cursor=pointer]:
+              - /url: https://aristino.com/collections/aristino-business
+              - generic [ref=e232]: BUSINESS
+          - group "3 / 4" [ref=e233]:
+            - link "SMART CASUAL" [ref=e235] [cursor=pointer]:
+              - /url: https://aristino.com/collections/life-style
+              - generic [ref=e238]: SMART CASUAL
+          - group "4 / 4" [ref=e239]:
+            - link "DAILY" [ref=e241] [cursor=pointer]:
+              - /url: https://aristino.com/collections/quan
+              - generic [ref=e244]: DAILY
+          - group "1 / 4" [ref=e245]:
+            - link [ref=e247] [cursor=pointer]:
+              - /url: ""
+          - group "2 / 4" [ref=e249]:
+            - link "BUSINESS" [ref=e251] [cursor=pointer]:
+              - /url: https://aristino.com/collections/aristino-business
+              - generic [ref=e254]: BUSINESS
+          - group "3 / 4" [ref=e255]:
+            - link "SMART CASUAL" [ref=e257] [cursor=pointer]:
+              - /url: https://aristino.com/collections/life-style
+              - generic [ref=e260]: SMART CASUAL
+          - group "4 / 4" [ref=e261]:
+            - link "DAILY" [ref=e263] [cursor=pointer]:
+              - /url: https://aristino.com/collections/quan
+              - generic [ref=e266]: DAILY
+          - group "1 / 4" [ref=e267]:
+            - link [ref=e269] [cursor=pointer]:
+              - /url: ""
+          - group "2 / 4" [ref=e271]:
+            - link "BUSINESS" [ref=e273] [cursor=pointer]:
+              - /url: https://aristino.com/collections/aristino-business
+              - generic [ref=e276]: BUSINESS
+          - group "3 / 4" [ref=e277]:
+            - link "SMART CASUAL" [ref=e279] [cursor=pointer]:
+              - /url: https://aristino.com/collections/life-style
+              - generic [ref=e282]: SMART CASUAL
+          - group "4 / 4" [ref=e283]:
+            - link "DAILY" [ref=e285] [cursor=pointer]:
+              - /url: https://aristino.com/collections/quan
+              - generic [ref=e288]: DAILY
+        - generic:
+          - generic:
+            - button "Previous slide" [ref=e289] [cursor=pointer]:
+              - img [ref=e290]
+            - button "Next slide" [ref=e292] [cursor=pointer]:
+              - img [ref=e293]
+      - generic [ref=e297]:
+        - generic [ref=e298]:
+          - heading "BỘ SƯU TẬP THU ĐÔNG BỘ SƯU TẬP THU ĐÔNG" [level=2] [ref=e299]:
+            - img "BỘ SƯU TẬP THU ĐÔNG" [ref=e300]
+            - text: BỘ SƯU TẬP THU ĐÔNG
+          - paragraph [ref=e301]: Tiếp nối huyền thoại - Bản trường ca tôn vinh hành trình viễn du của quý ông hiện đại, nơi từng sợi tre đan thành mái nhà của sự ấp ủ ước mơ và chuyển hóa thành con thuyền khát vọng ra khơi, mở lối cho những khám phá tự do và sáng tạo bất tận
+          - link "XEM CHI TIẾT" [ref=e302] [cursor=pointer]:
+            - /url: https://aristino.com/pages/thu-dong-2025
+        - generic [ref=e304]:
+          - generic [ref=e305]:
+            - group "1 / 4" [ref=e306]:
+              - link "LEATHER" [ref=e308] [cursor=pointer]:
+                - /url: https://aristino.com/collections/do-da
+                - img "LEATHER" [ref=e310]
+                - generic [ref=e312]: LEATHER
+            - group "2 / 4" [ref=e313]:
+              - link "POLO" [ref=e315] [cursor=pointer]:
+                - /url: https://aristino.com/collections/ao-polo
+                - img "POLO" [ref=e317]
+                - generic [ref=e319]: POLO
+            - group "3 / 4" [ref=e320]:
+              - link "PANTS" [ref=e322] [cursor=pointer]:
+                - /url: https://aristino.com/collections/quan
+                - img "PANTS" [ref=e324]
+                - generic [ref=e326]: PANTS
+            - group "4 / 4" [ref=e327]:
+              - link "SHIRT" [ref=e329] [cursor=pointer]:
+                - /url: https://aristino.com/collections/ao-so-mi
+                - img "SHIRT" [ref=e331]
+                - generic [ref=e333]: SHIRT
+            - group "1 / 4" [ref=e334]:
+              - link "LEATHER" [ref=e336] [cursor=pointer]:
+                - /url: https://aristino.com/collections/do-da
+                - img "LEATHER" [ref=e338]
+                - generic [ref=e340]: LEATHER
+            - group "2 / 4" [ref=e341]:
+              - link "POLO" [ref=e343] [cursor=pointer]:
+                - /url: https://aristino.com/collections/ao-polo
+                - img "POLO" [ref=e345]
+                - generic [ref=e347]: POLO
+            - group "3 / 4" [ref=e348]:
+              - link "PANTS" [ref=e350] [cursor=pointer]:
+                - /url: https://aristino.com/collections/quan
+                - img "PANTS" [ref=e352]
+                - generic [ref=e354]: PANTS
+            - group "4 / 4" [ref=e355]:
+              - link "SHIRT" [ref=e357] [cursor=pointer]:
+                - /url: https://aristino.com/collections/ao-so-mi
+                - img "SHIRT" [ref=e359]
+                - generic [ref=e361]: SHIRT
+            - group "1 / 4" [ref=e362]:
+              - link "LEATHER" [ref=e364] [cursor=pointer]:
+                - /url: https://aristino.com/collections/do-da
+                - img "LEATHER" [ref=e366]
+                - generic [ref=e368]: LEATHER
+            - group "2 / 4" [ref=e369]:
+              - link "POLO" [ref=e371] [cursor=pointer]:
+                - /url: https://aristino.com/collections/ao-polo
+                - img "POLO" [ref=e373]
+                - generic [ref=e375]: POLO
+            - group "3 / 4" [ref=e376]:
+              - link "PANTS" [ref=e378] [cursor=pointer]:
+                - /url: https://aristino.com/collections/quan
+                - img "PANTS" [ref=e380]
+                - generic [ref=e382]: PANTS
+            - group "4 / 4" [ref=e383]:
+              - link "SHIRT" [ref=e385] [cursor=pointer]:
+                - /url: https://aristino.com/collections/ao-so-mi
+                - img "SHIRT" [ref=e387]
+                - generic [ref=e389]: SHIRT
+          - generic:
+            - generic:
+              - button "Previous slide" [ref=e390] [cursor=pointer]:
+                - img [ref=e391]
+              - button "Next slide" [ref=e393] [cursor=pointer]:
+                - img [ref=e394]
+      - generic [ref=e399]:
+        - group "1 / 2" [ref=e400]:
+          - link "TIẾP NỐI HUYỀN THOẠI" [ref=e402] [cursor=pointer]:
+            - /url: https://aristino.com/collections/hang-moi-2025
+            - heading "TIẾP NỐI HUYỀN THOẠI" [level=3] [ref=e405]
+        - group "2 / 2" [ref=e406]:
+          - link "NEW ARRIVALS" [ref=e408] [cursor=pointer]:
+            - /url: https://aristino.com/collections/hang-moi
+            - heading "NEW ARRIVALS" [level=3] [ref=e411]
+        - group "1 / 2" [ref=e412]:
+          - link "TIẾP NỐI HUYỀN THOẠI" [ref=e414] [cursor=pointer]:
+            - /url: https://aristino.com/collections/hang-moi-2025
+            - heading "TIẾP NỐI HUYỀN THOẠI" [level=3] [ref=e417]
+        - group "2 / 2" [ref=e418]:
+          - link "NEW ARRIVALS" [ref=e420] [cursor=pointer]:
+            - /url: https://aristino.com/collections/hang-moi
+            - heading "NEW ARRIVALS" [level=3] [ref=e423]
+        - group "1 / 2" [ref=e424]:
+          - link "TIẾP NỐI HUYỀN THOẠI" [ref=e426] [cursor=pointer]:
+            - /url: https://aristino.com/collections/hang-moi-2025
+            - heading "TIẾP NỐI HUYỀN THOẠI" [level=3] [ref=e429]
+        - group "2 / 2" [ref=e430]:
+          - link "NEW ARRIVALS" [ref=e432] [cursor=pointer]:
+            - /url: https://aristino.com/collections/hang-moi
+            - heading "NEW ARRIVALS" [level=3] [ref=e435]
+      - generic [ref=e438]:
+        - generic [ref=e440]:
+          - img "SẢN PHẨM BÁN CHẠY" [ref=e441]
+          - heading "SẢN PHẨM BÁN CHẠY" [level=2] [ref=e442]:
+            - link "SẢN PHẨM BÁN CHẠY" [ref=e443] [cursor=pointer]:
+              - /url: /collections/san-pham-ban-chay
+        - generic [ref=e445]:
+          - generic [ref=e446]:
+            - group "1 / 8" [ref=e447]:
+              - generic [ref=e449]:
+                - generic [ref=e450]:
+                  - generic [ref=e452]: NEW
+                  - img "Only online" [ref=e455]
+                  - img "Áo Elite Polo Nam Trắng Aristino Cotton Regular Fit APS168S3EC" [ref=e457]
+                  - link [ref=e458] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-trang-aristino-cotton-regular-fit-aps168s3ec
+                  - button "Thêm vào giỏ" [ref=e459] [cursor=pointer]:
+                    - img [ref=e460]
+                  - generic [ref=e462]:
+                    - list [ref=e463]:
+                      - listitem [ref=e464]
+                    - link [ref=e466] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-trang-aristino-cotton-regular-fit-aps168s3ec
+                      - img [ref=e467]
+                - generic [ref=e469]:
+                  - generic [ref=e470]: Aristino
+                  - heading "Áo Elite Polo Nam Trắng Aristino Cotton Regular Fit APS168S3EC" [level=3] [ref=e471]:
+                    - link "Áo Elite Polo Nam Trắng Aristino Cotton Regular Fit APS168S3EC" [ref=e472] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-trang-aristino-cotton-regular-fit-aps168s3ec
+                  - generic [ref=e475]: 650,000₫
+            - group "2 / 8" [ref=e476]:
+              - generic [ref=e478]:
+                - generic [ref=e479]:
+                  - generic [ref=e481]: NEW
+                  - img "Only online" [ref=e484]
+                  - img "Áo Elite Polo Nam Xanh Tím Than Aristino Cotton Organic APS165S3EC" [ref=e486]
+                  - link [ref=e487] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-xanh-tim-than-aristino-cotton-organic-aps165s3ec
+                  - button "Thêm vào giỏ" [ref=e488] [cursor=pointer]:
+                    - img [ref=e489]
+                  - generic [ref=e491]:
+                    - list [ref=e492]:
+                      - listitem [ref=e493]
+                    - link [ref=e495] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xanh-tim-than-aristino-cotton-organic-aps165s3ec
+                      - img [ref=e496]
+                - generic [ref=e498]:
+                  - generic [ref=e499]: Aristino
+                  - heading "Áo Elite Polo Nam Xanh Tím Than Aristino Cotton Organic APS165S3EC" [level=3] [ref=e500]:
+                    - link "Áo Elite Polo Nam Xanh Tím Than Aristino Cotton Organic APS165S3EC" [ref=e501] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xanh-tim-than-aristino-cotton-organic-aps165s3ec
+                  - generic [ref=e504]: 650,000₫
+            - group "3 / 8" [ref=e505]:
+              - generic [ref=e507]:
+                - generic [ref=e508]:
+                  - generic [ref=e510]: NEW
+                  - img "Only online" [ref=e513]
+                  - img "Áo Elite Polo Nam Xanh Aqua Aristino Cotton Organic APS166S3EC" [ref=e515]
+                  - link [ref=e516] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-xanh-aqua-aristino-cotton-organic-aps166s3ec
+                  - button "Thêm vào giỏ" [ref=e517] [cursor=pointer]:
+                    - img [ref=e518]
+                  - generic [ref=e520]:
+                    - list [ref=e521]:
+                      - listitem [ref=e522]
+                    - link [ref=e524] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xanh-aqua-aristino-cotton-organic-aps166s3ec
+                      - img [ref=e525]
+                - generic [ref=e527]:
+                  - generic [ref=e528]: Aristino
+                  - heading "Áo Elite Polo Nam Xanh Aqua Aristino Cotton Organic APS166S3EC" [level=3] [ref=e529]:
+                    - link "Áo Elite Polo Nam Xanh Aqua Aristino Cotton Organic APS166S3EC" [ref=e530] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xanh-aqua-aristino-cotton-organic-aps166s3ec
+                  - generic [ref=e533]: 650,000₫
+            - group "4 / 8" [ref=e534]:
+              - generic [ref=e536]:
+                - generic [ref=e537]:
+                  - generic [ref=e539]: NEW
+                  - img "Only online" [ref=e542]
+                  - img "Áo Elite Polo Nam Xám Aristino Cotton Organic APS166S3EC" [ref=e544]
+                  - link [ref=e545] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-xam-aristino-cotton-organic-aps166s3ec
+                  - button "Thêm vào giỏ" [ref=e546] [cursor=pointer]:
+                    - img [ref=e547]
+                  - generic [ref=e549]:
+                    - list [ref=e550]:
+                      - listitem [ref=e551]
+                    - link [ref=e553] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xam-aristino-cotton-organic-aps166s3ec
+                      - img [ref=e554]
+                - generic [ref=e556]:
+                  - generic [ref=e557]: Aristino
+                  - heading "Áo Elite Polo Nam Xám Aristino Cotton Organic APS166S3EC" [level=3] [ref=e558]:
+                    - link "Áo Elite Polo Nam Xám Aristino Cotton Organic APS166S3EC" [ref=e559] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xam-aristino-cotton-organic-aps166s3ec
+                  - generic [ref=e562]: 650,000₫
+            - group "5 / 8" [ref=e563]:
+              - generic [ref=e565]:
+                - generic [ref=e566]:
+                  - generic [ref=e568]: NEW
+                  - img "Only online" [ref=e571]
+                  - img "Áo Elite Polo Nam Nâu Aristino Cotton Organic APS165S3EC" [ref=e573]
+                  - link [ref=e574] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-nau-aristino-cotton-organic-aps165s3ec
+                  - button "Thêm vào giỏ" [ref=e575] [cursor=pointer]:
+                    - img [ref=e576]
+                  - generic [ref=e578]:
+                    - list [ref=e579]:
+                      - listitem [ref=e580]
+                    - link [ref=e582] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-nau-aristino-cotton-organic-aps165s3ec
+                      - img [ref=e583]
+                - generic [ref=e585]:
+                  - generic [ref=e586]: Aristino
+                  - heading "Áo Elite Polo Nam Nâu Aristino Cotton Organic APS165S3EC" [level=3] [ref=e587]:
+                    - link "Áo Elite Polo Nam Nâu Aristino Cotton Organic APS165S3EC" [ref=e588] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-nau-aristino-cotton-organic-aps165s3ec
+                  - generic [ref=e591]: 650,000₫
+            - group "6 / 8" [ref=e592]:
+              - generic [ref=e594]:
+                - generic [ref=e595]:
+                  - generic [ref=e597]: NEW
+                  - img "Only online" [ref=e600]
+                  - img "Áo Elite Polo Nam Đen Aristino Cotton Regular Fit APS167S3EC" [ref=e602]
+                  - link [ref=e603] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-den-aristino-cotton-regular-fit-aps167s3ec
+                  - button "Thêm vào giỏ" [ref=e604] [cursor=pointer]:
+                    - img [ref=e605]
+                  - generic [ref=e607]:
+                    - list [ref=e608]:
+                      - listitem [ref=e609]
+                    - link [ref=e611] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-den-aristino-cotton-regular-fit-aps167s3ec
+                      - img [ref=e612]
+                - generic [ref=e614]:
+                  - generic [ref=e615]: Aristino
+                  - heading "Áo Elite Polo Nam Đen Aristino Cotton Regular Fit APS167S3EC" [level=3] [ref=e616]:
+                    - link "Áo Elite Polo Nam Đen Aristino Cotton Regular Fit APS167S3EC" [ref=e617] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-den-aristino-cotton-regular-fit-aps167s3ec
+                  - generic [ref=e620]: 650,000₫
+            - group "7 / 8" [ref=e621]:
+              - generic [ref=e623]:
+                - generic [ref=e624]:
+                  - generic [ref=e626]: NEW
+                  - img "Only online" [ref=e629]
+                  - img "Áo Elite Polo Nam Be Aristino Cotton Regular Fit APS167S3EC" [ref=e631]
+                  - link [ref=e632] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-be-aristino-cotton-regular-fit-aps167s3ec
+                  - button "Thêm vào giỏ" [ref=e633] [cursor=pointer]:
+                    - img [ref=e634]
+                  - generic [ref=e636]:
+                    - list [ref=e637]:
+                      - listitem [ref=e638]
+                    - link [ref=e640] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-be-aristino-cotton-regular-fit-aps167s3ec
+                      - img [ref=e641]
+                - generic [ref=e643]:
+                  - generic [ref=e644]: Aristino
+                  - heading "Áo Elite Polo Nam Be Aristino Cotton Regular Fit APS167S3EC" [level=3] [ref=e645]:
+                    - link "Áo Elite Polo Nam Be Aristino Cotton Regular Fit APS167S3EC" [ref=e646] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-be-aristino-cotton-regular-fit-aps167s3ec
+                  - generic [ref=e649]: 650,000₫
+            - group "8 / 8" [ref=e650]:
+              - generic [ref=e652]:
+                - generic [ref=e653]:
+                  - generic [ref=e655]: NEW
+                  - img "Only online" [ref=e658]
+                  - img "Áo Elite Polo Nam Cổ Dệt Đen Aristino Cotton Regular Fit APSR10EC" [ref=e660]
+                  - link [ref=e661] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-co-det-den-aristino-cotton-regular-fit-apsr10ec
+                  - button "Thêm vào giỏ" [ref=e662] [cursor=pointer]:
+                    - img [ref=e663]
+                  - generic [ref=e665]:
+                    - list [ref=e666]:
+                      - listitem [ref=e667]
+                    - link [ref=e669] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-co-det-den-aristino-cotton-regular-fit-apsr10ec
+                      - img [ref=e670]
+                - generic [ref=e672]:
+                  - generic [ref=e673]: Aristino
+                  - heading "Áo Elite Polo Nam Cổ Dệt Đen Aristino Cotton Regular Fit APSR10EC" [level=3] [ref=e674]:
+                    - link "Áo Elite Polo Nam Cổ Dệt Đen Aristino Cotton Regular Fit APSR10EC" [ref=e675] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-co-det-den-aristino-cotton-regular-fit-apsr10ec
+                  - generic [ref=e678]: 595,000₫
+          - generic:
+            - button "Previous slide" [disabled]:
+              - img
+            - button "Next slide" [disabled]:
+              - img
+        - link "Xem tất cả" [ref=e682] [cursor=pointer]:
+          - /url: /collections/san-pham-ban-chay
+      - generic [ref=e684]:
+        - generic [ref=e686]:
+          - img "SẢN PHẨM MỚI" [ref=e687]
+          - heading "ARISTINO x KOL" [level=2] [ref=e688]
+        - generic [ref=e690]:
+          - group "2 / 5" [ref=e691]:
+            - link "gallery-top-2" [ref=e692] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-blazer-nam-aristino-business-brezza-1bz0030z
+              - img "gallery-top-2" [ref=e693]
+          - group "3 / 5" [ref=e694]:
+            - link "gallery-top-3" [ref=e695] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-so-mi-nam-do-ke-aristino-business-1ss041as4
+              - img "gallery-top-3" [ref=e696]
+          - group "4 / 5" [ref=e697]:
+            - link "gallery-top-4" [ref=e698] [cursor=pointer]:
+              - /url: https://aristino.com/products/tui-du-lich-nam-aristino-avb0240z4
+              - img "gallery-top-4" [ref=e699]
+          - group "5 / 5" [ref=e700]:
+            - link "gallery-top-5" [ref=e701] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-so-mi-nam-cotton-oxford-aristino-milano-alsu610s1s
+              - img "gallery-top-5" [ref=e702]
+          - group "1 / 5" [ref=e703]:
+            - link "gallery-top-1" [ref=e704] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-polo-nam-aristino-business-1ps008as1
+              - img "gallery-top-1" [ref=e705]
+          - group "2 / 5" [ref=e706]:
+            - link "gallery-top-2" [ref=e707] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-blazer-nam-aristino-business-brezza-1bz0030z
+              - img "gallery-top-2" [ref=e708]
+          - group "3 / 5" [ref=e709]:
+            - link "gallery-top-3" [ref=e710] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-so-mi-nam-do-ke-aristino-business-1ss041as4
+              - img "gallery-top-3" [ref=e711]
+          - group "4 / 5" [ref=e712]:
+            - link "gallery-top-4" [ref=e713] [cursor=pointer]:
+              - /url: https://aristino.com/products/tui-du-lich-nam-aristino-avb0240z4
+              - img "gallery-top-4" [ref=e714]
+          - group "5 / 5" [ref=e715]:
+            - link "gallery-top-5" [ref=e716] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-so-mi-nam-cotton-oxford-aristino-milano-alsu610s1s
+              - img "gallery-top-5" [ref=e717]
+          - group "1 / 5" [ref=e718]:
+            - link "gallery-top-1" [ref=e719] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-polo-nam-aristino-business-1ps008as1
+              - img "gallery-top-1" [ref=e720]
+          - group "2 / 5" [ref=e721]:
+            - link "gallery-top-2" [ref=e722] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-blazer-nam-aristino-business-brezza-1bz0030z
+              - img "gallery-top-2" [ref=e723]
+          - group "3 / 5" [ref=e724]:
+            - link "gallery-top-3" [ref=e725] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-so-mi-nam-do-ke-aristino-business-1ss041as4
+              - img "gallery-top-3" [ref=e726]
+          - group "4 / 5" [ref=e727]:
+            - link "gallery-top-4" [ref=e728] [cursor=pointer]:
+              - /url: https://aristino.com/products/tui-du-lich-nam-aristino-avb0240z4
+              - img "gallery-top-4" [ref=e729]
+        - generic [ref=e731]:
+          - group "2 / 5" [ref=e732]:
+            - link "gallery-bottom-2" [ref=e733] [cursor=pointer]:
+              - /url: https://aristino.com/products/bo-suits-nam-aristino-asu0050z
+              - img "gallery-bottom-2" [ref=e734]
+          - group "3 / 5" [ref=e735]:
+            - link "gallery-bottom-3" [ref=e736] [cursor=pointer]:
+              - /url: https://aristino.com/products/bo-suits-nam-aristino-asu0040z
+              - img "gallery-bottom-3" [ref=e737]
+          - group "4 / 5" [ref=e738]:
+            - link "gallery-bottom-4" [ref=e739] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-polo-nam-aristino-golf-apsg02as2
+              - img "gallery-bottom-4" [ref=e740]
+          - group "5 / 5" [ref=e741]:
+            - link "gallery-bottom-5" [ref=e742] [cursor=pointer]:
+              - /url: https://aristino.com/products/tui-du-lich-nam-aristino-leather-avb0110z
+              - img "gallery-bottom-5" [ref=e743]
+          - group "1 / 5" [ref=e744]:
+            - link "gallery-bottom-1" [ref=e745] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-blazer-nam-aristino-business-brezza-1bz0030z
+              - img "gallery-bottom-1" [ref=e746]
+          - group "2 / 5" [ref=e747]:
+            - link "gallery-bottom-2" [ref=e748] [cursor=pointer]:
+              - /url: https://aristino.com/products/bo-suits-nam-aristino-asu0050z
+              - img "gallery-bottom-2" [ref=e749]
+          - group "3 / 5" [ref=e750]:
+            - link "gallery-bottom-3" [ref=e751] [cursor=pointer]:
+              - /url: https://aristino.com/products/bo-suits-nam-aristino-asu0040z
+              - img "gallery-bottom-3" [ref=e752]
+          - group "4 / 5" [ref=e753]:
+            - link "gallery-bottom-4" [ref=e754] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-polo-nam-aristino-golf-apsg02as2
+              - img "gallery-bottom-4" [ref=e755]
+          - group "5 / 5" [ref=e756]:
+            - link "gallery-bottom-5" [ref=e757] [cursor=pointer]:
+              - /url: https://aristino.com/products/tui-du-lich-nam-aristino-leather-avb0110z
+              - img "gallery-bottom-5" [ref=e758]
+          - group "1 / 5" [ref=e759]:
+            - link "gallery-bottom-1" [ref=e760] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-blazer-nam-aristino-business-brezza-1bz0030z
+              - img "gallery-bottom-1" [ref=e761]
+          - group "2 / 5" [ref=e762]:
+            - link "gallery-bottom-2" [ref=e763] [cursor=pointer]:
+              - /url: https://aristino.com/products/bo-suits-nam-aristino-asu0050z
+              - img "gallery-bottom-2" [ref=e764]
+          - group "3 / 5" [ref=e765]:
+            - link "gallery-bottom-3" [ref=e766] [cursor=pointer]:
+              - /url: https://aristino.com/products/bo-suits-nam-aristino-asu0040z
+              - img "gallery-bottom-3" [ref=e767]
+          - group "4 / 5" [ref=e768]:
+            - link "gallery-bottom-4" [ref=e769] [cursor=pointer]:
+              - /url: https://aristino.com/products/ao-polo-nam-aristino-golf-apsg02as2
+              - img "gallery-bottom-4" [ref=e770]
+      - generic [ref=e773]:
+        - generic [ref=e775]:
+          - img [ref=e777]
+          - generic [ref=e779]:
+            - heading "Chính hãng" [level=3] [ref=e780]
+            - paragraph [ref=e781]: 100% Chính hãng
+        - generic [ref=e783]:
+          - img [ref=e785]
+          - generic [ref=e792]:
+            - heading "Giao hàng" [level=3] [ref=e793]
+            - paragraph [ref=e794]: Free ship đơn >300k
+        - generic [ref=e796]:
+          - img [ref=e798]
+          - generic [ref=e806]:
+            - heading "Thanh toán" [level=3] [ref=e807]
+            - paragraph [ref=e808]: Thanh toán trả góp
+        - generic [ref=e810]:
+          - img [ref=e812]
+          - generic [ref=e817]:
+            - heading "Bảo hành" [level=3] [ref=e818]
+            - paragraph [ref=e819]: Lên đến 180 ngày
+    - contentinfo [ref=e820]:
+      - generic [ref=e822]:
+        - generic [ref=e823]:
+          - generic [ref=e824]:
+            - link "ARISTINO" [ref=e826] [cursor=pointer]:
+              - /url: /
+              - img "ARISTINO" [ref=e827]
+            - generic [ref=e828]:
+              - heading "CÔNG TY CỔ PHẦN ĐẦU TƯ K&G VIỆT NAM" [level=4] [ref=e830]
+              - list [ref=e832]:
+                - listitem [ref=e833]: "Trụ sở chính: Tầng 11, Khối A, Tòa nhà Sông Đà, Đường Phạm Hùng, Phường Từ Liêm, TP Hà Nội"
+                - listitem [ref=e834]: "Mã số thuế: 0105911105. Đăng ký lần đầu ngày 08/06/2012 sửa đổi bổ sung tùy từng thời điểm. Nơi cấp: Sở Kế hoạch và Đầu tư thành phố Hà Nội."
+                - listitem [ref=e835]: "Chi Nhánh: 84 Nguyễn Trãi, Phường Chợ Quán, Hồ Chí Minh, Việt Nam."
+          - generic [ref=e836]:
+            - generic [ref=e837]:
+              - heading "Đăng ký nhận tin điện tử" [level=4] [ref=e838]
+              - paragraph [ref=e839]: Hãy nhập email của bạn để nhận những tin tức mới nhất của chúng tôi
+            - generic [ref=e841]:
+              - textbox "Địa chỉ Email" [ref=e842]
+              - button "GỬI" [ref=e843] [cursor=pointer]:
+                - generic [ref=e844]: GỬI
+                - img [ref=e845]
+          - generic [ref=e848]:
+            - generic [ref=e849]:
+              - heading "Theo dõi chúng tôi" [level=4] [ref=e852]
+              - list [ref=e855]:
+                - listitem [ref=e856]:
+                  - link [ref=e857] [cursor=pointer]:
+                    - /url: https://www.facebook.com/ilovearistino
+                    - img [ref=e858]
+                - listitem [ref=e861]:
+                  - link [ref=e862] [cursor=pointer]:
+                    - /url: https://www.instagram.com/aristino_official/
+                    - img [ref=e863]
+                - listitem [ref=e867]:
+                  - link [ref=e868] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@Aristino_Official.Channel
+                    - img [ref=e869]
+                - listitem [ref=e871]:
+                  - link [ref=e872] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@aristino.online.store
+                    - img [ref=e873]
+            - generic [ref=e877]:
+              - generic [ref=e878]: "HOTLINE:"
+              - link "18006226" [ref=e879] [cursor=pointer]:
+                - /url: tel:18006226
+        - generic [ref=e881]:
+          - generic [ref=e883]:
+            - heading "VỀ CHÚNG TÔI" [level=4] [ref=e885]
+            - list [ref=e887]:
+              - listitem [ref=e888]:
+                - link "Giới thiệu Aristino" [ref=e889] [cursor=pointer]:
+                  - /url: /pages/ve-aristino
+              - listitem [ref=e890]:
+                - link "Cửa hàng gần bạn" [ref=e891] [cursor=pointer]:
+                  - /url: https://aristino.com/pages/he-thong-cua-hang
+              - listitem [ref=e892]:
+                - link "Ngôi Nhà Chung K&G" [ref=e893] [cursor=pointer]:
+                  - /url: https://ngoinhachung.vn
+              - listitem [ref=e894]:
+                - link "Tuyển dụng" [ref=e895] [cursor=pointer]:
+                  - /url: https://tuyendung.kgvietnam.com
+              - listitem [ref=e896]:
+                - link "Wear-Care-Share" [ref=e897] [cursor=pointer]:
+                  - /url: /blogs/ware-care-share-new
+              - listitem [ref=e898]:
+                - link "Tin tức" [ref=e899] [cursor=pointer]:
+                  - /url: /blogs/news
+              - listitem [ref=e900]:
+                - link "Nhà máy sản xuất" [ref=e901] [cursor=pointer]:
+                  - /url: /pages/nha-may-san-xuat
+              - listitem [ref=e902]:
+                - link "Aristailor" [ref=e903] [cursor=pointer]:
+                  - /url: https://www.aristailor.com/
+              - listitem [ref=e904]:
+                - link "Amazon" [ref=e905] [cursor=pointer]:
+                  - /url: https://www.amazon.com/stores/page/ACA83D64-AE91-4064-A28C-FD44A36169CD
+              - listitem [ref=e906]:
+                - link "OEM/ODM" [ref=e907] [cursor=pointer]:
+                  - /url: https://kggarment.com/vi
+              - listitem [ref=e908]:
+                - link "Global (+84) 888969887, b2b@kgvietnam.com" [ref=e909] [cursor=pointer]:
+                  - /url: https://kgvietnamofficial.trustpass.alibaba.com/
+          - generic [ref=e911]:
+            - heading "CHÍNH SÁCH BÁN HÀNG" [level=4] [ref=e913]:
+              - link "CHÍNH SÁCH BÁN HÀNG" [ref=e914] [cursor=pointer]:
+                - /url: ""
+            - list [ref=e916]:
+              - listitem [ref=e917]:
+                - link "Chính sách hội viên" [ref=e918] [cursor=pointer]:
+                  - /url: /pages/chinh-sach-hoi-vien
+              - listitem [ref=e919]:
+                - link "Chính sách giao hàng" [ref=e920] [cursor=pointer]:
+                  - /url: /pages/chinh-sach-giao-hang
+              - listitem [ref=e921]:
+                - link "Chính sách đổi hàng" [ref=e922] [cursor=pointer]:
+                  - /url: /pages/chinh-sach-doi-tra
+              - listitem [ref=e923]:
+                - link "Chính sách bảo hành" [ref=e924] [cursor=pointer]:
+                  - /url: /pages/chinh-sach-bao-hanh
+              - listitem [ref=e925]:
+                - link "Chính sách bảo mật" [ref=e926] [cursor=pointer]:
+                  - /url: /pages/chinh-sach-bao-mat
+          - generic [ref=e928]:
+            - heading "QUY ĐỊNH HOẠT ĐỘNG" [level=4] [ref=e930]
+            - list [ref=e932]:
+              - listitem [ref=e933]:
+                - link "Điều khoản dịch vụ" [ref=e934] [cursor=pointer]:
+                  - /url: /pages/dieu-khoan-dich-vu
+              - listitem [ref=e935]:
+                - link "Chính sách bảo mật" [ref=e936] [cursor=pointer]:
+                  - /url: /pages/chinh-sach-bao-mat
+              - listitem [ref=e937]:
+                - link "Hướng dẫn mua hàng" [ref=e938] [cursor=pointer]:
+                  - /url: /pages/huong-dan-mua-hang
+          - generic [ref=e940]:
+            - heading "DỊCH VỤ KHÁCH HÀNG" [level=4] [ref=e942]
+            - list [ref=e944]:
+              - listitem [ref=e945]:
+                - link "Trạng thái đơn hàng" [ref=e946] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e947]:
+                - link "Câu hỏi thường gặp" [ref=e948] [cursor=pointer]:
+                  - /url: /pages/dieu-khoan-dich-vu
+              - listitem [ref=e949]:
+                - link "Chính sách hội viên" [ref=e950] [cursor=pointer]:
+                  - /url: /pages/chinh-sach-hoi-vien
+              - listitem [ref=e951]:
+                - 'link "Hotline: 1800 6226" [ref=e952] [cursor=pointer]':
+                  - /url: /
+              - listitem [ref=e953]:
+                - 'link "Email: online@kgvietnam.com" [ref=e954] [cursor=pointer]':
+                  - /url: /
+          - generic:
+            - generic:
+              - list
+          - generic [ref=e956]:
+            - heading "Thanh toán" [level=4] [ref=e958]
+            - list [ref=e960]:
+              - listitem [ref=e961]:
+                - img [ref=e962]
+              - listitem [ref=e972]:
+                - img [ref=e973]
+              - listitem [ref=e982]:
+                - img [ref=e983]
+              - listitem [ref=e1000]:
+                - img [ref=e1001]
+        - generic [ref=e1005]:
+          - generic [ref=e1006]:
+            - generic [ref=e1007]: Bản quyền © 2024 KGVIETNAM
+            - link [ref=e1008] [cursor=pointer]:
+              - /url: http://online.gov.vn/Home/WebDetails/27344
+              - img [ref=e1009]
+          - generic [ref=e1015]:
+            - combobox "Tiện ích dịch ngôn ngữ" [ref=e1016]:
+              - option "Chọn Ngôn ngữ" [selected]
+              - option "Ả Rập"
+              - option "Abkhaz"
+              - option "Aceh"
+              - option "Acholi"
+              - option "Afar"
+              - option "Albania"
+              - option "Alur"
+              - option "Amharic"
+              - option "Anh"
+              - option "Armenia"
+              - option "Assam"
+              - option "Avar"
+              - option "Awadhi"
+              - option "Aymara"
+              - option "Azerbaijan"
+              - option "Ba Lan"
+              - option "Ba Tư"
+              - option "Bali"
+              - option "Baluchi"
+              - option "Bambara"
+              - option "Bantu"
+              - option "Baoulé"
+              - option "Bashkir"
+              - option "Basque"
+              - option "Batak Karo"
+              - option "Batak Simalungun"
+              - option "Batak Toba"
+              - option "Bắc Sami"
+              - option "Belarus"
+              - option "Bemba"
+              - option "Bengal"
+              - option "Betawi"
+              - option "Bhojpuri"
+              - option "Bikol"
+              - option "Bosnia"
+              - option "Bồ Đào Nha (Bồ Đào Nha)"
+              - option "Bồ Đào Nha (Brazil)"
+              - option "Breton"
+              - option "Bulgaria"
+              - option "Buryat"
+              - option "Catalan"
+              - option "Cebuano"
+              - option "Chamorro"
+              - option "Chechnya"
+              - option "Chichewa"
+              - option "Chuuk"
+              - option "Chuvash"
+              - option "Corsi"
+              - option "Creole (Haiti)"
+              - option "Creole Seychelles"
+              - option "Croatia"
+              - option "Dari"
+              - option "Dhivehi"
+              - option "Dinka"
+              - option "Do Thái"
+              - option "Dogri"
+              - option "Dombe"
+              - option "Dyula"
+              - option "Dzongkha"
+              - option "Đan Mạch"
+              - option "Đức"
+              - option "Estonia"
+              - option "Ewe"
+              - option "Faroese"
+              - option "Fiji"
+              - option "Filipino"
+              - option "Fon"
+              - option "Frisia"
+              - option "Friuli"
+              - option "Fulani"
+              - option "Gaa"
+              - option "Gael Scotland"
+              - option "Galicia"
+              - option "Guarani"
+              - option "Gujarat"
+              - option "Hà Lan"
+              - option "Hà Lan (Nam Phi)"
+              - option "Hakha Chin"
+              - option "Hàn"
+              - option "Hausa"
+              - option "Hawaii"
+              - option "Hiligaynon"
+              - option "Hindi"
+              - option "Hmong"
+              - option "Hungary"
+              - option "Hunsrik"
+              - option "Hy Lạp"
+              - option "Iban"
+              - option "Iceland"
+              - option "Igbo"
+              - option "Ilocano"
+              - option "Indonesia"
+              - option "Ireland"
+              - option "Java"
+              - option "Jingpo"
+              - option "Kalaallisut"
+              - option "Kannada"
+              - option "Kanuri"
+              - option "Kapampangan"
+              - option "Kazakh"
+              - option "Khasi"
+              - option "Khmer"
+              - option "Kiga"
+              - option "Kikongo"
+              - option "Kinyarwanda"
+              - option "Kituba"
+              - option "Kokborok"
+              - option "Komi"
+              - option "Konkani"
+              - option "Krio"
+              - option "Kurd (Kurmanji)"
+              - option "Kurd (Sorani)"
+              - option "Kyrgyz"
+              - option "Lào"
+              - option "Latgale"
+              - option "Latinh"
+              - option "Latvia"
+              - option "Liguria"
+              - option "Limburg"
+              - option "Lingala"
+              - option "Litva"
+              - option "Lombard"
+              - option "Luganda"
+              - option "Luo"
+              - option "Luxembourg"
+              - option "Mã Lai"
+              - option "Macedonia"
+              - option "Madura"
+              - option "Maithili"
+              - option "Makassar"
+              - option "Malagasy"
+              - option "Malay (Jawi)"
+              - option "Malayalam"
+              - option "Malta"
+              - option "Mam"
+              - option "Manx"
+              - option "Maori"
+              - option "Marathi"
+              - option "Marshall"
+              - option "Marwadi"
+              - option "Mauritian Creole"
+              - option "Maya Yucatec"
+              - option "Meadow Mari"
+              - option "Meiteilon (Manipuri)"
+              - option "Minang"
+              - option "Mizo"
+              - option "Mông Cổ"
+              - option "Myanmar"
+              - option "N'Ko"
+              - option "Na Uy"
+              - option "Nahuatl (Đông Huasteca)"
+              - option "Nam Ndebele"
+              - option "Ndau"
+              - option "Nepal"
+              - option "Nga"
+              - option "Nhật"
+              - option "Nuer"
+              - option "Occitan"
+              - option "Odia (Oriya)"
+              - option "Oromo"
+              - option "Ossetia"
+              - option "Pangasinan"
+              - option "Papiamento"
+              - option "Pashto"
+              - option "Patois Jamaica"
+              - option "Phạn"
+              - option "Pháp"
+              - option "Phần Lan"
+              - option "Punjab (Gurmukhi)"
+              - option "Punjab (Shahmukhi)"
+              - option "Q'eqchi'"
+              - option "Quảng Đông"
+              - option "Quechua"
+              - option "Quốc tế ngữ"
+              - option "Romani"
+              - option "Rumani"
+              - option "Rundi"
+              - option "Samoa"
+              - option "Sango"
+              - option "Séc"
+              - option "Sepedi"
+              - option "Serbia"
+              - option "Sesotho"
+              - option "Shan"
+              - option "Shona"
+              - option "Sicily"
+              - option "Silesia"
+              - option "Sindhi"
+              - option "Sinhala"
+              - option "Slovak"
+              - option "Slovenia"
+              - option "Somali"
+              - option "Sunda"
+              - option "Susu"
+              - option "Swahili"
+              - option "Swati"
+              - option "Tahiti"
+              - option "Tajik"
+              - option "Tamazight"
+              - option "Tamazight (Tifinagh)"
+              - option "Tamil"
+              - option "Tatar"
+              - option "Tây Ban Nha"
+              - option "Tây Tạng"
+              - option "Telugu"
+              - option "Tetum"
+              - option "Thái"
+              - option "Thổ Nhĩ Kỳ"
+              - option "Thụy Điển"
+              - option "Tiếng Georgia"
+              - option "Tiếng Inuktut (Âm tiết)"
+              - option "Tiếng Inuktut (Latinh)"
+              - option "Tiếng Nepal Bhasa (tiếng Newar)"
+              - option "Tiếng Pháp (Canada)"
+              - option "Tiếng Santal (Latinh)"
+              - option "Tiếng Santal (Ol Chiki)"
+              - option "Tiếng Tatar Krym (Kirin)"
+              - option "Tiếng Tatar Krym (Latinh)"
+              - option "Tigrinya"
+              - option "Tiv"
+              - option "Tok Pisin"
+              - option "Tonga"
+              - option "Trung (Giản thể)"
+              - option "Trung (Phồn thể)"
+              - option "Tshiluba"
+              - option "Tsonga"
+              - option "Tswana"
+              - option "Tulu"
+              - option "Tumbuka"
+              - option "Turkmen"
+              - option "Tuva"
+              - option "Twi"
+              - option "Udmurt"
+              - option "Ukraina"
+              - option "Urdu"
+              - option "Uyghur"
+              - option "Uzbek"
+              - option "Venda"
+              - option "Venice"
+              - option "Waray"
+              - option "Wolof"
+              - option "Xứ Wales"
+              - option "Ý"
+              - option "Yakut"
+              - option "Yiddish"
+              - option "Yoruba"
+              - option "Zapotec"
+              - option "Zulu"
+            - text: Được hỗ trợ bởi
+    - generic [ref=e1018] [cursor=pointer]:
+      - img [ref=e1019]
+      - generic [ref=e1022]: BACK TO TOP
+    - img [ref=e1026] [cursor=pointer]
+    - text: "* * * *"
+    - generic [ref=e1031]:
+      - generic [ref=e1032]:
+        - heading "GIỎ HÀNG" [level=4] [ref=e1033]:
+          - img [ref=e1034]
+          - text: GIỎ HÀNG
+        - button [ref=e1039] [cursor=pointer]:
+          - img [ref=e1040]
+      - generic [ref=e1044]: Chưa có sản phẩm nào trong giỏ hàng
+      - generic [ref=e1045]:
+        - generic [ref=e1046]:
+          - generic [ref=e1047]:
+            - generic [ref=e1048]: Tổng tiền hàng
+            - generic [ref=e1049]: "0"
+          - generic [ref=e1050]:
+            - generic [ref=e1051]: Phí vận chuyển
+            - generic [ref=e1052]: "0"
+          - generic [ref=e1053]:
+            - generic [ref=e1054]: Giảm giá
+            - generic [ref=e1055]: "0"
+          - generic [ref=e1056]:
+            - generic [ref=e1057]: Tổng đơn hàng
+            - generic [ref=e1058]: "0"
+        - link "THANH TOÁN" [ref=e1060] [cursor=pointer]:
+          - /url: /checkout
+  - img [ref=e1064]
+  - generic [ref=e1068]:
+    - generic [ref=e1069]:
+      - img "notification icon" [ref=e1071]
+      - generic [ref=e1072]: Nhận thông báo mới nhất về các chương trình khuyến mãi tại Aristino!
+    - generic [ref=e1074]:
+      - button "Cho phép" [ref=e1075] [cursor=pointer]
+      - button "Bỏ qua" [ref=e1076] [cursor=pointer]
+```

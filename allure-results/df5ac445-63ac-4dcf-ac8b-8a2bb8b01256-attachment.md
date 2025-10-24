@@ -1,0 +1,770 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]: TIẾP NỐI HUYỀN THOẠI
+      - link "SHOP NOW" [ref=e9] [cursor=pointer]:
+        - /url: https://aristino.com/collections/hang-moi
+    - generic [ref=e11]:
+      - link "Tìm cửa hàng" [ref=e12] [cursor=pointer]:
+        - /url: https://aristino-2.myharavan.com/pages/he-thong-cua-hang
+        - img [ref=e13]
+        - generic [ref=e19]: Tìm cửa hàng
+      - link "SUPPORT" [ref=e21] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e22]: SUPPORT
+  - banner [ref=e23]:
+    - generic [ref=e26]:
+      - link [ref=e28] [cursor=pointer]:
+        - /url: https://aristino.com
+        - img [ref=e29]
+      - list [ref=e40]:
+        - listitem [ref=e41]:
+          - link [ref=e42] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e43]
+        - listitem [ref=e45]:
+          - link [ref=e46] [cursor=pointer]:
+            - /url: /account
+            - img [ref=e47]
+        - listitem [ref=e49]:
+          - link "0" [ref=e50] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e51]
+            - generic [ref=e53]: "0"
+        - listitem [ref=e54]:
+          - link "0" [ref=e55] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e56]
+            - generic [ref=e58]: "0"
+    - generic [ref=e63]:
+      - generic [ref=e64]:
+        - link "TRANG PHỤC" [ref=e65] [cursor=pointer]:
+          - /url: /collections/trang-phuc
+        - link "PHỤ KIỆN" [ref=e66] [cursor=pointer]:
+          - /url: /collections/phu-kien
+        - link "ĐỒ DA" [ref=e67] [cursor=pointer]:
+          - /url: /collections/do-da
+        - link "THƯƠNG HIỆU" [ref=e68] [cursor=pointer]:
+          - /url: /collections/thuong-hieu
+      - list [ref=e70]:
+        - listitem [ref=e71]:
+          - button "open-child" [ref=e72] [cursor=pointer]:
+            - img [ref=e73]
+          - link "Ưu đãi 🔥" [ref=e75] [cursor=pointer]:
+            - /url: /collections/gia-moi-moi-ngay
+            - generic [ref=e76]: Ưu đãi 🔥
+        - listitem [ref=e77]:
+          - button "open-child" [ref=e78] [cursor=pointer]:
+            - img [ref=e79]
+          - link "Bộ sưu tập" [ref=e81] [cursor=pointer]:
+            - /url: /collections/bo-suu-tap
+            - generic [ref=e82]: Bộ sưu tập
+        - listitem [ref=e83]:
+          - link "Hàng mới" [ref=e84] [cursor=pointer]:
+            - /url: /collections/hang-moi
+            - generic [ref=e85]: Hàng mới
+        - listitem [ref=e86]:
+          - button "open-child" [ref=e87] [cursor=pointer]:
+            - img [ref=e88]
+          - link "Áo" [ref=e90] [cursor=pointer]:
+            - /url: /collections/tat-ca-ao
+            - generic [ref=e91]: Áo
+        - listitem [ref=e92]:
+          - button "open-child" [ref=e93] [cursor=pointer]:
+            - img [ref=e94]
+          - link "Quần" [ref=e96] [cursor=pointer]:
+            - /url: /collections/quan
+            - generic [ref=e97]: Quần
+        - listitem [ref=e98]:
+          - button "open-child" [ref=e99] [cursor=pointer]:
+            - img [ref=e100]
+          - link "Suits" [ref=e102] [cursor=pointer]:
+            - /url: /collections/bo-suits-1
+            - generic [ref=e103]: Suits
+        - listitem [ref=e104]:
+          - button "open-child" [ref=e105] [cursor=pointer]:
+            - img [ref=e106]
+          - link "Bộ Đồ" [ref=e108] [cursor=pointer]:
+            - /url: /collections/bo
+            - generic [ref=e109]: Bộ Đồ
+        - listitem [ref=e110]:
+          - button "open-child" [ref=e111] [cursor=pointer]:
+            - img [ref=e112]
+          - link "Đồ Lót" [ref=e114] [cursor=pointer]:
+            - /url: /collections/quan-lot
+            - generic [ref=e115]: Đồ Lót
+        - listitem [ref=e116]:
+          - button "open-child" [ref=e117] [cursor=pointer]:
+            - img [ref=e118]
+          - link "Phụ Kiện" [ref=e120] [cursor=pointer]:
+            - /url: /collections/phu-kien
+            - generic [ref=e121]: Phụ Kiện
+        - listitem [ref=e122]:
+          - link "Showroom" [ref=e123] [cursor=pointer]:
+            - /url: https://aristino.com/pages/he-thong-cua-hang
+            - generic [ref=e124]: Showroom
+  - main [ref=e125]:
+    - generic [ref=e127]:
+      - generic [ref=e130]:
+        - generic [ref=e133]:
+          - link "Be 4 Jacquard" [ref=e135] [cursor=pointer]:
+            - /url: https://cdn.hstatic.net/products/200000887901/080a5787_f42e6432287145ebb2c8b6fdf9670090.jpg
+            - img "Be 4 Jacquard" [ref=e136]
+          - link "Be 4 Jacquard" [ref=e138] [cursor=pointer]:
+            - /url: https://cdn.hstatic.net/products/200000887901/080a5783_635ebaf0388a4aed83f5858a68e4ef21.jpg
+            - img "Be 4 Jacquard" [ref=e139]
+          - link "Be 4 Jacquard" [ref=e141] [cursor=pointer]:
+            - /url: https://cdn.hstatic.net/products/200000887901/upload_4675fbfc0e5e45bb980ed8cbfee79681.jpg
+            - img "Be 4 Jacquard" [ref=e142]
+          - link "Be 4 Jacquard" [ref=e144] [cursor=pointer]:
+            - /url: https://cdn.hstatic.net/products/200000887901/080a5791_1f279024499e4e10b344f6ac0f2ac257.jpg
+            - img "Be 4 Jacquard" [ref=e145]
+          - link "Be 4 Jacquard" [ref=e147] [cursor=pointer]:
+            - /url: https://cdn.hstatic.net/products/200000887901/080a5777_f886084398fd4618bff61ca5b5f9f903.jpg
+            - img "Be 4 Jacquard" [ref=e148]
+          - link "Be 4 Jacquard" [ref=e150] [cursor=pointer]:
+            - /url: https://cdn.hstatic.net/products/200000887901/img_7714.1_1dd7d34fe89d4a17811ea7feed55745e.jpg
+            - img "Be 4 Jacquard" [ref=e151]
+          - link "Be 4 Jacquard" [ref=e153] [cursor=pointer]:
+            - /url: https://cdn.hstatic.net/products/200000887901/upload_abc05d2ac6a64517a43dd22ed683c05c.jpg
+            - img "Be 4 Jacquard" [ref=e154]
+          - link "Be 4 Jacquard" [ref=e156] [cursor=pointer]:
+            - /url: https://cdn.hstatic.net/products/200000887901/upload_db9561584dba4e298aebef9452b252c5.jpg
+            - img "Be 4 Jacquard" [ref=e157]
+          - link "Be 4 Jacquard" [ref=e159] [cursor=pointer]:
+            - /url: https://cdn.hstatic.net/products/200000887901/upload_0530e576dff24bb3955275538b062b4d.jpg
+            - img "Be 4 Jacquard" [ref=e160]
+          - link "Be 4 Jacquard" [ref=e162] [cursor=pointer]:
+            - /url: https://cdn.hstatic.net/products/200000887901/upload_4c60b9dbc9c74d7e94228f98df66b663.jpg
+            - img "Be 4 Jacquard" [ref=e163]
+        - generic [ref=e164]:
+          - list [ref=e167]:
+            - listitem [ref=e168]:
+              - link "Trang chủ" [ref=e169] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e170]:
+              - link "Sản phẩm bán chạy" [ref=e171] [cursor=pointer]:
+                - /url: https://aristino.com/collections/san-pham-ban-chay
+            - listitem [ref=e172]:
+              - strong [ref=e174]: Áo Nỉ Sweatshirt Nam Họa Tiết Aristino Regular Fit ASW005BS0
+          - generic [ref=e175]:
+            - generic [ref=e176]:
+              - generic [ref=e177]: Aristino
+              - heading "Áo Nỉ Sweatshirt Nam Họa Tiết Aristino Regular Fit ASW005BS0" [level=1] [ref=e179]
+            - generic [ref=e180]:
+              - generic [ref=e182]: 850,000đ
+              - generic [ref=e184]: (Giá đã bao gồm VAT)
+            - generic [ref=e186]:
+              - generic [ref=e187]:
+                - img [ref=e188]
+                - generic [ref=e190]:
+                  - generic [ref=e191]: "4.5"
+                  - generic [ref=e192]: (406)
+              - link "Viết đánh giá" [ref=e195] [cursor=pointer]:
+                - /url: "#customers-rating"
+            - generic [ref=e197]:
+              - generic [ref=e201]: Be 4 Jacquard
+              - generic [ref=e207]:
+                - generic [ref=e208]:
+                  - generic [ref=e209] [cursor=pointer]: Bảng size
+                  - link "Hướng dẫn chọn size" [ref=e210] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Hướng dẫn chọn size
+                    - img [ref=e211]
+                - generic [ref=e216]:
+                  - generic [ref=e218] [cursor=pointer]: S
+                  - generic [ref=e220] [cursor=pointer]: M
+                  - generic [ref=e222] [cursor=pointer]: L
+                  - generic [ref=e224] [cursor=pointer]: XL
+                  - generic [ref=e226] [cursor=pointer]: XXL
+            - generic [ref=e228]:
+              - button "Thêm vào giỏ" [ref=e229] [cursor=pointer]:
+                - img [ref=e230]
+                - generic [ref=e232]: Thêm vào giỏ
+              - button [ref=e233] [cursor=pointer]:
+                - img [ref=e234]
+            - generic [ref=e237]:
+              - generic [ref=e238]:
+                - generic [ref=e239]: Thời gian giao hàng dự kiến
+                - generic [ref=e240]: Từ 3 đến 5 ngày kể từ ngày đặt hàng
+              - link "Mua tại showroom" [ref=e241] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e242]: Mua tại showroom
+            - generic [ref=e244]: Đổi hàng trong 30 ngày với sản phẩm còn nguyên tem mác, chưa qua sử dụng, giặt.
+      - generic [ref=e247]:
+        - list [ref=e248]:
+          - listitem [ref=e249]:
+            - link "Chi tiết sản phẩm" [ref=e250]:
+              - /url: "#tab-1"
+          - listitem [ref=e251]:
+            - link "Chính sách đổi & hoàn trả" [ref=e252] [cursor=pointer]:
+              - /url: "#tab-2"
+          - listitem [ref=e253]:
+            - link "Đánh giá & Nhận xét" [ref=e254] [cursor=pointer]:
+              - /url: "#tab-3"
+        - generic [ref=e259]:
+          - list [ref=e260]:
+            - listitem [ref=e261]:
+              - strong [ref=e262]: "Tên sản phẩm:"
+              - text: Áo Nỉ Sweatshirt Nam Họa Tiết Aristino Regular Fit ASW005BS0
+            - listitem [ref=e263]:
+              - strong [ref=e264]: "Mã sản phẩm:"
+              - text: ASW005BS0
+            - listitem [ref=e265]:
+              - strong [ref=e266]: "Kiểu dáng:"
+              - text: Dáng vừa/ Regular Fit
+            - listitem [ref=e267]:
+              - strong [ref=e268]: "Thiết kế:"
+              - list [ref=e269]:
+                - listitem [ref=e270]: Áo Sweatshirt phom regular fit vừa vặn giữ dáng gọn gàng, mang lại cẩm giác thoải mái tuyệt đối khi mặc.
+                - listitem [ref=e271]: Áo thiết kế hiện đại với chất liệu jacquard dệt họa tiết ấn tượng độc đáo.
+                - listitem [ref=e272]: Điểm nhấn nằm ở mác da màu be dập tinh tế biểu tượng mặt trời huyền thoại và chữ ký Aristino.
+            - listitem [ref=e273]:
+              - strong [ref=e274]: "Chất liệu:"
+              - list [ref=e275]:
+                - listitem [ref=e276]: 64% Cotton (Bông) thoáng khí, thấm hút mồ hôi tốt, mang lại cảm giác mềm mại, dễ chịu khi mặc
+                - listitem [ref=e277]: 36% Polyester giúp áo bền màu, sắc nét và độ trơn trượt, mỏng nhẹ
+            - listitem [ref=e278]:
+              - strong [ref=e279]: "Màu sắc:"
+              - text: Be 4 Jacquard, Đen 8 Jacquard
+            - listitem [ref=e280]:
+              - strong [ref=e281]: "Size:"
+              - text: S, M, L, XL, XXL
+            - listitem [ref=e282]:
+              - strong [ref=e283]: "Sản xuất:"
+              - text: Việt Nam
+          - paragraph [ref=e284]:
+            - strong [ref=e285]: "Hướng dẫn bảo quản và giặt ủi:"
+          - list [ref=e286]:
+            - listitem [ref=e287]: Giặt ở nhiệt độ không quá 30°C.
+            - listitem [ref=e288]: Không sử dụng chất tẩy mạnh.
+            - listitem [ref=e289]: Là/ủi ở nhiệt độ thấp.
+            - listitem [ref=e290]: Phơi nơi thoáng mát, tránh ánh nắng trực tiếp để giữ chất lượng vải và màu sắc.
+          - paragraph [ref=e291]:
+            - strong [ref=e292]: "Lưu ý:"
+            - text: Hình ảnh chỉ mang tính chất minh họa. Sản phẩm thực tế có thể khác về màu sắc do ánh sáng khi chụp ảnh hoặc màn hình hiển thị.
+      - generic [ref=e293]:
+        - generic [ref=e296]:
+          - heading "HÀNG MỚI" [level=2] [ref=e299]:
+            - img [ref=e300]
+            - generic [ref=e305]: HÀNG MỚI
+          - generic [ref=e308]:
+            - group "1 / 12" [ref=e309]:
+              - generic [ref=e311]:
+                - generic [ref=e312]:
+                  - generic [ref=e314]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Trắng Aristino Cotton Regular Fit APS168S3EC" [ref=e316]
+                  - link [ref=e317] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-trang-aristino-cotton-regular-fit-aps168s3ec
+                  - button "Thêm vào giỏ" [ref=e318] [cursor=pointer]:
+                    - img [ref=e319]
+                  - generic [ref=e321]:
+                    - list [ref=e322]:
+                      - listitem [ref=e323]
+                    - link [ref=e325] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-trang-aristino-cotton-regular-fit-aps168s3ec
+                      - img [ref=e326]
+                - generic [ref=e328]:
+                  - generic [ref=e329]: Aristino
+                  - heading "Áo Elite Polo Nam Trắng Aristino Cotton Regular Fit APS168S3EC" [level=3] [ref=e330]:
+                    - link "Áo Elite Polo Nam Trắng Aristino Cotton Regular Fit APS168S3EC" [ref=e331] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-trang-aristino-cotton-regular-fit-aps168s3ec
+                  - generic [ref=e334]: 650,000₫
+            - group "2 / 12" [ref=e335]:
+              - generic [ref=e337]:
+                - generic [ref=e338]:
+                  - generic [ref=e340]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Xanh Tím Than Aristino Cotton Organic APS165S3EC" [ref=e342]
+                  - link [ref=e343] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-xanh-tim-than-aristino-cotton-organic-aps165s3ec
+                  - button "Thêm vào giỏ" [ref=e344] [cursor=pointer]:
+                    - img [ref=e345]
+                  - generic [ref=e347]:
+                    - list [ref=e348]:
+                      - listitem [ref=e349]
+                    - link [ref=e351] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xanh-tim-than-aristino-cotton-organic-aps165s3ec
+                      - img [ref=e352]
+                - generic [ref=e354]:
+                  - generic [ref=e355]: Aristino
+                  - heading "Áo Elite Polo Nam Xanh Tím Than Aristino Cotton Organic APS165S3EC" [level=3] [ref=e356]:
+                    - link "Áo Elite Polo Nam Xanh Tím Than Aristino Cotton Organic APS165S3EC" [ref=e357] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xanh-tim-than-aristino-cotton-organic-aps165s3ec
+                  - generic [ref=e360]: 650,000₫
+            - group "3 / 12" [ref=e361]:
+              - generic [ref=e363]:
+                - generic [ref=e364]:
+                  - generic [ref=e366]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Xanh Aqua Aristino Cotton Organic APS166S3EC" [ref=e368]
+                  - link [ref=e369] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-xanh-aqua-aristino-cotton-organic-aps166s3ec
+                  - button "Thêm vào giỏ" [ref=e370] [cursor=pointer]:
+                    - img [ref=e371]
+                  - generic [ref=e373]:
+                    - list [ref=e374]:
+                      - listitem [ref=e375]
+                    - link [ref=e377] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xanh-aqua-aristino-cotton-organic-aps166s3ec
+                      - img [ref=e378]
+                - generic [ref=e380]:
+                  - generic [ref=e381]: Aristino
+                  - heading "Áo Elite Polo Nam Xanh Aqua Aristino Cotton Organic APS166S3EC" [level=3] [ref=e382]:
+                    - link "Áo Elite Polo Nam Xanh Aqua Aristino Cotton Organic APS166S3EC" [ref=e383] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xanh-aqua-aristino-cotton-organic-aps166s3ec
+                  - generic [ref=e386]: 650,000₫
+            - group "4 / 12" [ref=e387]:
+              - generic [ref=e389]:
+                - generic [ref=e390]:
+                  - generic [ref=e392]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Xám Aristino Cotton Organic APS166S3EC" [ref=e394]
+                  - link [ref=e395] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-xam-aristino-cotton-organic-aps166s3ec
+                  - button "Thêm vào giỏ" [ref=e396] [cursor=pointer]:
+                    - img [ref=e397]
+                  - generic [ref=e399]:
+                    - list [ref=e400]:
+                      - listitem [ref=e401]
+                    - link [ref=e403] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xam-aristino-cotton-organic-aps166s3ec
+                      - img [ref=e404]
+                - generic [ref=e406]:
+                  - generic [ref=e407]: Aristino
+                  - heading "Áo Elite Polo Nam Xám Aristino Cotton Organic APS166S3EC" [level=3] [ref=e408]:
+                    - link "Áo Elite Polo Nam Xám Aristino Cotton Organic APS166S3EC" [ref=e409] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xam-aristino-cotton-organic-aps166s3ec
+                  - generic [ref=e412]: 650,000₫
+            - group "5 / 12" [ref=e413]:
+              - generic [ref=e415]:
+                - generic [ref=e416]:
+                  - generic [ref=e418]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Nâu Aristino Cotton Organic APS165S3EC" [ref=e420]
+                  - link [ref=e421] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-nau-aristino-cotton-organic-aps165s3ec
+                  - button "Thêm vào giỏ" [ref=e422] [cursor=pointer]:
+                    - img [ref=e423]
+                  - generic [ref=e425]:
+                    - list [ref=e426]:
+                      - listitem [ref=e427]
+                    - link [ref=e429] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-nau-aristino-cotton-organic-aps165s3ec
+                      - img [ref=e430]
+                - generic [ref=e432]:
+                  - generic [ref=e433]: Aristino
+                  - heading "Áo Elite Polo Nam Nâu Aristino Cotton Organic APS165S3EC" [level=3] [ref=e434]:
+                    - link "Áo Elite Polo Nam Nâu Aristino Cotton Organic APS165S3EC" [ref=e435] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-nau-aristino-cotton-organic-aps165s3ec
+                  - generic [ref=e438]: 650,000₫
+            - group "6 / 12" [ref=e439]:
+              - generic [ref=e441]:
+                - generic [ref=e442]:
+                  - generic [ref=e444]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Đen Aristino Cotton Regular Fit APS167S3EC" [ref=e446]
+                  - link [ref=e447] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-den-aristino-cotton-regular-fit-aps167s3ec
+                  - button "Thêm vào giỏ" [ref=e448] [cursor=pointer]:
+                    - img [ref=e449]
+                  - generic [ref=e451]:
+                    - list [ref=e452]:
+                      - listitem [ref=e453]
+                    - link [ref=e455] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-den-aristino-cotton-regular-fit-aps167s3ec
+                      - img [ref=e456]
+                - generic [ref=e458]:
+                  - generic [ref=e459]: Aristino
+                  - heading "Áo Elite Polo Nam Đen Aristino Cotton Regular Fit APS167S3EC" [level=3] [ref=e460]:
+                    - link "Áo Elite Polo Nam Đen Aristino Cotton Regular Fit APS167S3EC" [ref=e461] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-den-aristino-cotton-regular-fit-aps167s3ec
+                  - generic [ref=e464]: 650,000₫
+            - group "7 / 12" [ref=e465]:
+              - generic [ref=e467]:
+                - generic [ref=e468]:
+                  - generic [ref=e470]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Be Aristino Cotton Regular Fit APS167S3EC" [ref=e472]
+                  - link [ref=e473] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-be-aristino-cotton-regular-fit-aps167s3ec
+                  - button "Thêm vào giỏ" [ref=e474] [cursor=pointer]:
+                    - img [ref=e475]
+                  - generic [ref=e477]:
+                    - list [ref=e478]:
+                      - listitem [ref=e479]
+                    - link [ref=e481] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-be-aristino-cotton-regular-fit-aps167s3ec
+                      - img [ref=e482]
+                - generic [ref=e484]:
+                  - generic [ref=e485]: Aristino
+                  - heading "Áo Elite Polo Nam Be Aristino Cotton Regular Fit APS167S3EC" [level=3] [ref=e486]:
+                    - link "Áo Elite Polo Nam Be Aristino Cotton Regular Fit APS167S3EC" [ref=e487] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-be-aristino-cotton-regular-fit-aps167s3ec
+                  - generic [ref=e490]: 650,000₫
+            - group "8 / 12" [ref=e491]:
+              - generic [ref=e493]:
+                - generic [ref=e494]:
+                  - generic [ref=e496]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Cổ Dệt Đen Aristino Cotton Regular Fit APSR10EC" [ref=e498]
+                  - link [ref=e499] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-co-det-den-aristino-cotton-regular-fit-apsr10ec
+                  - button "Thêm vào giỏ" [ref=e500] [cursor=pointer]:
+                    - img [ref=e501]
+                  - generic [ref=e503]:
+                    - list [ref=e504]:
+                      - listitem [ref=e505]
+                    - link [ref=e507] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-co-det-den-aristino-cotton-regular-fit-apsr10ec
+                      - img [ref=e508]
+                - generic [ref=e510]:
+                  - generic [ref=e511]: Aristino
+                  - heading "Áo Elite Polo Nam Cổ Dệt Đen Aristino Cotton Regular Fit APSR10EC" [level=3] [ref=e512]:
+                    - link "Áo Elite Polo Nam Cổ Dệt Đen Aristino Cotton Regular Fit APSR10EC" [ref=e513] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-co-det-den-aristino-cotton-regular-fit-apsr10ec
+                  - generic [ref=e516]: 595,000₫
+            - group "9 / 12" [ref=e517]:
+              - generic [ref=e519]:
+                - generic [ref=e520]:
+                  - generic [ref=e522]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Trắng Aristino Slim Fit APS072S3EC" [ref=e524]
+                  - link [ref=e525] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-trang-aristino-slim-fit-aps072s3ec
+                  - button "Thêm vào giỏ" [ref=e526] [cursor=pointer]:
+                    - img [ref=e527]
+                  - generic [ref=e529]:
+                    - list [ref=e530]:
+                      - listitem [ref=e531]
+                    - link [ref=e533] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-trang-aristino-slim-fit-aps072s3ec
+                      - img [ref=e534]
+                - generic [ref=e536]:
+                  - generic [ref=e537]: Aristino
+                  - heading "Áo Elite Polo Nam Trắng Aristino Slim Fit APS072S3EC" [level=3] [ref=e538]:
+                    - link "Áo Elite Polo Nam Trắng Aristino Slim Fit APS072S3EC" [ref=e539] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-trang-aristino-slim-fit-aps072s3ec
+                  - generic [ref=e542]: 595,000₫
+            - group "10 / 12" [ref=e543]:
+              - generic [ref=e545]:
+                - generic [ref=e546]:
+                  - generic [ref=e548]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Xanh Than Aristino Cotton Slim Fit APS115S3EC" [ref=e550]
+                  - link [ref=e551] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-xanh-than-aristino-cotton-slim-fit-aps115s3ec
+                  - button "Thêm vào giỏ" [ref=e552] [cursor=pointer]:
+                    - img [ref=e553]
+                  - generic [ref=e555]:
+                    - list [ref=e556]:
+                      - listitem [ref=e557]
+                    - link [ref=e559] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xanh-than-aristino-cotton-slim-fit-aps115s3ec
+                      - img [ref=e560]
+                - generic [ref=e562]:
+                  - generic [ref=e563]: Aristino
+                  - heading "Áo Elite Polo Nam Xanh Than Aristino Cotton Slim Fit APS115S3EC" [level=3] [ref=e564]:
+                    - link "Áo Elite Polo Nam Xanh Than Aristino Cotton Slim Fit APS115S3EC" [ref=e565] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xanh-than-aristino-cotton-slim-fit-aps115s3ec
+                  - generic [ref=e568]: 650,000₫
+            - group "11 / 12" [ref=e569]:
+              - generic [ref=e571]:
+                - generic [ref=e572]:
+                  - generic [ref=e574]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Xám Nhạt Aristino Cotton Slim Fit APS115S3EC" [ref=e576]
+                  - link [ref=e577] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-xam-nhat-aristino-cotton-slim-fit-aps115s3ec
+                  - button "Thêm vào giỏ" [ref=e578] [cursor=pointer]:
+                    - img [ref=e579]
+                  - generic [ref=e581]:
+                    - list [ref=e582]:
+                      - listitem [ref=e583]
+                    - link [ref=e585] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xam-nhat-aristino-cotton-slim-fit-aps115s3ec
+                      - img [ref=e586]
+                - generic [ref=e588]:
+                  - generic [ref=e589]: Aristino
+                  - heading "Áo Elite Polo Nam Xám Nhạt Aristino Cotton Slim Fit APS115S3EC" [level=3] [ref=e590]:
+                    - link "Áo Elite Polo Nam Xám Nhạt Aristino Cotton Slim Fit APS115S3EC" [ref=e591] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xam-nhat-aristino-cotton-slim-fit-aps115s3ec
+                  - generic [ref=e594]: 650,000₫
+            - group "12 / 12" [ref=e595]:
+              - generic [ref=e597]:
+                - generic [ref=e598]:
+                  - generic [ref=e600]: NEW
+                  - generic:
+                    - generic:
+                      - img "Only online"
+                  - img "Áo Elite Polo Nam Xám Aristino Cotton Slim Fit APS115S3EC" [ref=e602]
+                  - link [ref=e603] [cursor=pointer]:
+                    - /url: /products/ao-elite-polo-nam-xam-aristino-cotton-slim-fit-aps115s3ec-1
+                  - button "Thêm vào giỏ" [ref=e604] [cursor=pointer]:
+                    - img [ref=e605]
+                  - generic [ref=e607]:
+                    - list [ref=e608]:
+                      - listitem [ref=e609]
+                    - link [ref=e611] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xam-aristino-cotton-slim-fit-aps115s3ec-1
+                      - img [ref=e612]
+                - generic [ref=e614]:
+                  - generic [ref=e615]: Aristino
+                  - heading "Áo Elite Polo Nam Xám Aristino Cotton Slim Fit APS115S3EC" [level=3] [ref=e616]:
+                    - link "Áo Elite Polo Nam Xám Aristino Cotton Slim Fit APS115S3EC" [ref=e617] [cursor=pointer]:
+                      - /url: /products/ao-elite-polo-nam-xam-aristino-cotton-slim-fit-aps115s3ec-1
+                  - generic [ref=e620]: 650,000₫
+        - generic [ref=e624]:
+          - heading "CÁC THƯƠNG HIỆU THUỘC ARISTINO" [level=3] [ref=e626]:
+            - img [ref=e627]
+            - generic [ref=e632]: CÁC THƯƠNG HIỆU THUỘC ARISTINO
+          - generic [ref=e634]:
+            - generic [ref=e636]:
+              - img "Aristino Uniform" [ref=e638]
+              - link [ref=e639] [cursor=pointer]:
+                - /url: https://aristino.com/
+            - generic [ref=e641]:
+              - img "Aristino Business" [ref=e643]
+              - link [ref=e644] [cursor=pointer]:
+                - /url: https://aristino.com/collections/aristino-business
+            - generic [ref=e646]:
+              - img "Aristino" [ref=e648]
+              - link [ref=e649] [cursor=pointer]:
+                - /url: https://aristino.com/
+            - generic [ref=e651]:
+              - img "Aristino Handmade" [ref=e653]
+              - link [ref=e654] [cursor=pointer]:
+                - /url: https://aristino.com/collections/aristino-golf
+            - generic [ref=e656]:
+              - img "Aristino Golf" [ref=e658]
+              - link [ref=e659] [cursor=pointer]:
+                - /url: https://aristino.com/
+  - generic [ref=e662]:
+    - generic [ref=e664]:
+      - img [ref=e666]
+      - generic [ref=e668]:
+        - heading "Chính hãng" [level=3] [ref=e669]
+        - paragraph [ref=e670]: 100% Chính hãng
+    - generic [ref=e672]:
+      - img [ref=e674]
+      - generic [ref=e676]:
+        - heading "Giao hàng" [level=3] [ref=e677]
+        - paragraph [ref=e678]: Free ship đơn >300k
+    - generic [ref=e680]:
+      - img [ref=e682]
+      - generic [ref=e691]:
+        - heading "Thanh toán" [level=3] [ref=e692]
+        - paragraph [ref=e693]: Thanh toán trả góp
+    - generic [ref=e695]:
+      - img [ref=e697]
+      - generic [ref=e702]:
+        - heading "Bảo hành" [level=3] [ref=e703]
+        - paragraph [ref=e704]: Lên đến 180 ngày
+  - contentinfo [ref=e705]:
+    - generic [ref=e707]:
+      - generic [ref=e708]:
+        - generic [ref=e709]:
+          - link "ARISTINO" [ref=e711] [cursor=pointer]:
+            - /url: /
+            - img "ARISTINO" [ref=e712]
+          - generic [ref=e713]:
+            - heading "CÔNG TY CỔ PHẦN ĐẦU TƯ K&G VIỆT NAM" [level=4] [ref=e715]
+            - list [ref=e717]:
+              - listitem [ref=e718]: "Trụ sở chính: Tầng 11, Khối A, Tòa nhà Sông Đà, Đường Phạm Hùng, Phường Từ Liêm, TP Hà Nội"
+              - listitem [ref=e719]: "Mã số thuế: 0105911105. Đăng ký lần đầu ngày 08/06/2012 sửa đổi bổ sung tùy từng thời điểm. Nơi cấp: Sở Kế hoạch và Đầu tư thành phố Hà Nội."
+              - listitem [ref=e720]: "Chi Nhánh: 84 Nguyễn Trãi, Phường Chợ Quán, Hồ Chí Minh, Việt Nam."
+        - generic [ref=e721]:
+          - generic [ref=e722]:
+            - heading "Đăng ký nhận tin điện tử" [level=4] [ref=e723]
+            - paragraph [ref=e724]: Hãy nhập email của bạn để nhận những tin tức mới nhất của chúng tôi
+          - generic [ref=e726]:
+            - textbox "Địa chỉ Email" [ref=e727]
+            - button "GỬI" [ref=e728] [cursor=pointer]:
+              - generic [ref=e729]: GỬI
+              - img [ref=e730]
+        - generic [ref=e733]:
+          - generic [ref=e734]:
+            - heading "Theo dõi chúng tôi" [level=4] [ref=e737]
+            - list [ref=e740]:
+              - listitem [ref=e741]:
+                - link [ref=e742] [cursor=pointer]:
+                  - /url: https://www.facebook.com/ilovearistino
+                  - img [ref=e743]
+              - listitem [ref=e746]:
+                - link [ref=e747] [cursor=pointer]:
+                  - /url: https://www.instagram.com/aristino_official/
+                  - img [ref=e748]
+              - listitem [ref=e752]:
+                - link [ref=e753] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@Aristino_Official.Channel
+                  - img [ref=e754]
+              - listitem [ref=e756]:
+                - link [ref=e757] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@aristino.online.store
+                  - img [ref=e758]
+          - generic [ref=e762]:
+            - generic [ref=e763]: "HOTLINE:"
+            - link "18006226" [ref=e764] [cursor=pointer]:
+              - /url: tel:18006226
+      - generic [ref=e766]:
+        - generic [ref=e768]:
+          - heading "VỀ CHÚNG TÔI" [level=4] [ref=e770]
+          - list [ref=e772]:
+            - listitem [ref=e773]:
+              - link "Giới thiệu Aristino" [ref=e774] [cursor=pointer]:
+                - /url: /pages/ve-aristino
+            - listitem [ref=e775]:
+              - link "Cửa hàng gần bạn" [ref=e776] [cursor=pointer]:
+                - /url: https://aristino.com/pages/he-thong-cua-hang
+            - listitem [ref=e777]:
+              - link "Ngôi Nhà Chung K&G" [ref=e778] [cursor=pointer]:
+                - /url: https://ngoinhachung.vn
+            - listitem [ref=e779]:
+              - link "Tuyển dụng" [ref=e780] [cursor=pointer]:
+                - /url: https://tuyendung.kgvietnam.com
+            - listitem [ref=e781]:
+              - link "Wear-Care-Share" [ref=e782] [cursor=pointer]:
+                - /url: /blogs/ware-care-share-new
+            - listitem [ref=e783]:
+              - link "Tin tức" [ref=e784] [cursor=pointer]:
+                - /url: /blogs/news
+            - listitem [ref=e785]:
+              - link "Nhà máy sản xuất" [ref=e786] [cursor=pointer]:
+                - /url: /pages/nha-may-san-xuat
+            - listitem [ref=e787]:
+              - link "Aristailor" [ref=e788] [cursor=pointer]:
+                - /url: https://www.aristailor.com/
+            - listitem [ref=e789]:
+              - link "Amazon" [ref=e790] [cursor=pointer]:
+                - /url: https://www.amazon.com/stores/page/ACA83D64-AE91-4064-A28C-FD44A36169CD
+            - listitem [ref=e791]:
+              - link "OEM/ODM" [ref=e792] [cursor=pointer]:
+                - /url: https://kggarment.com/vi
+            - listitem [ref=e793]:
+              - link "Global (+84) 888969887, b2b@kgvietnam.com" [ref=e794] [cursor=pointer]:
+                - /url: https://kgvietnamofficial.trustpass.alibaba.com/
+        - generic [ref=e796]:
+          - heading "CHÍNH SÁCH BÁN HÀNG" [level=4] [ref=e798]:
+            - link "CHÍNH SÁCH BÁN HÀNG" [ref=e799] [cursor=pointer]:
+              - /url: ""
+          - list [ref=e801]:
+            - listitem [ref=e802]:
+              - link "Chính sách hội viên" [ref=e803] [cursor=pointer]:
+                - /url: /pages/chinh-sach-hoi-vien
+            - listitem [ref=e804]:
+              - link "Chính sách giao hàng" [ref=e805] [cursor=pointer]:
+                - /url: /pages/chinh-sach-giao-hang
+            - listitem [ref=e806]:
+              - link "Chính sách đổi hàng" [ref=e807] [cursor=pointer]:
+                - /url: /pages/chinh-sach-doi-tra
+            - listitem [ref=e808]:
+              - link "Chính sách bảo hành" [ref=e809] [cursor=pointer]:
+                - /url: /pages/chinh-sach-bao-hanh
+            - listitem [ref=e810]:
+              - link "Chính sách bảo mật" [ref=e811] [cursor=pointer]:
+                - /url: /pages/chinh-sach-bao-mat
+        - generic [ref=e813]:
+          - heading "QUY ĐỊNH HOẠT ĐỘNG" [level=4] [ref=e815]
+          - list [ref=e817]:
+            - listitem [ref=e818]:
+              - link "Điều khoản dịch vụ" [ref=e819] [cursor=pointer]:
+                - /url: /pages/dieu-khoan-dich-vu
+            - listitem [ref=e820]:
+              - link "Chính sách bảo mật" [ref=e821] [cursor=pointer]:
+                - /url: /pages/chinh-sach-bao-mat
+            - listitem [ref=e822]:
+              - link "Hướng dẫn mua hàng" [ref=e823] [cursor=pointer]:
+                - /url: /pages/huong-dan-mua-hang
+        - generic [ref=e825]:
+          - heading "DỊCH VỤ KHÁCH HÀNG" [level=4] [ref=e827]
+          - list [ref=e829]:
+            - listitem [ref=e830]:
+              - link "Trạng thái đơn hàng" [ref=e831] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e832]:
+              - link "Câu hỏi thường gặp" [ref=e833] [cursor=pointer]:
+                - /url: /pages/dieu-khoan-dich-vu
+            - listitem [ref=e834]:
+              - link "Chính sách hội viên" [ref=e835] [cursor=pointer]:
+                - /url: /pages/chinh-sach-hoi-vien
+            - listitem [ref=e836]:
+              - 'link "Hotline: 1800 6226" [ref=e837] [cursor=pointer]':
+                - /url: /
+            - listitem [ref=e838]:
+              - 'link "Email: online@kgvietnam.com" [ref=e839] [cursor=pointer]':
+                - /url: /
+        - generic:
+          - generic:
+            - list
+        - generic [ref=e841]:
+          - heading "Thanh toán" [level=4] [ref=e843]
+          - list [ref=e845]:
+            - listitem [ref=e846]:
+              - img [ref=e847]
+            - listitem [ref=e857]:
+              - img [ref=e858]
+            - listitem [ref=e867]:
+              - img [ref=e868]
+            - listitem [ref=e885]:
+              - img [ref=e886]
+      - generic [ref=e891]:
+        - generic [ref=e892]: Bản quyền © 2024 KGVIETNAM
+        - link [ref=e893] [cursor=pointer]:
+          - /url: http://online.gov.vn/Home/WebDetails/27344
+          - img [ref=e894]
+  - generic [ref=e897] [cursor=pointer]:
+    - img [ref=e898]
+    - generic [ref=e901]: BACK TO TOP
+  - img [ref=e905] [cursor=pointer]
+  - text: "* * * *"
+  - generic [ref=e910]:
+    - generic [ref=e911]:
+      - heading "GIỎ HÀNG" [level=4] [ref=e912]:
+        - img [ref=e913]
+        - text: GIỎ HÀNG
+      - button [ref=e918] [cursor=pointer]:
+        - img [ref=e919]
+    - generic [ref=e923]: Chưa có sản phẩm nào trong giỏ hàng
+    - generic [ref=e924]:
+      - generic [ref=e925]:
+        - generic [ref=e926]:
+          - generic [ref=e927]: Tổng tiền hàng
+          - generic [ref=e928]: "0"
+        - generic [ref=e929]:
+          - generic [ref=e930]: Phí vận chuyển
+          - generic [ref=e931]: "0"
+        - generic [ref=e932]:
+          - generic [ref=e933]: Giảm giá
+          - generic [ref=e934]: "0"
+        - generic [ref=e935]:
+          - generic [ref=e936]: Tổng đơn hàng
+          - generic [ref=e937]: "0"
+      - link "THANH TOÁN" [ref=e939] [cursor=pointer]:
+        - /url: /checkout
+```

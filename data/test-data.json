@@ -1,0 +1,47 @@
+{
+    "products": [
+        {
+            "url": "/products/ao-ni-sweatshirt-nam-hoa-tiet-aristino-regular-fit-asw005bs0",
+            "name": "Áo Nỉ Sweatshirt Nam Họa Tiết Aristino Regular Fit ASW005BS0",
+            "color": "Be 4 Jacquard",
+            "price": "850,000đ",
+            "size": "L"
+        },
+        {
+            "url": "/products/ao-ni-sweatshirt-nam-hoa-tiet-aristino-regular-fit-asw005bs0",
+            "name": "Áo Nỉ Sweatshirt Nam Họa Tiết Aristino Regular Fit ASW005BS0",
+            "color": "Be 4 Jacquard",
+            "price": "850,000đ",
+            "size": "M"
+        }
+    ],
+    "users": [
+        {
+            "email": "tuyennnhh1jjms2@gmail.com",
+            "password": "Abc@123456",
+            "firstName": "John",
+            "lastName": "Doe",
+            "isPositive": true
+        },
+        {
+            "email": "jane.smith@example.com",
+            "password": "Pass@456",
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "isPositive": false
+        }
+    ],
+    "searchTerms": [
+        {
+            "searchValue": "ABZ0030S3",
+            "recommendText": "Áo Blazer Kẻ Nam Aristino Premio ABZ0030S3",
+            "expectedQuantity": 1,
+            "isPositive": true
+        },
+        {
+            "searchValue": "bdfsfew",
+            "expectedQuantity": 0,
+            "isPositive": false
+        }
+    ]
+}
