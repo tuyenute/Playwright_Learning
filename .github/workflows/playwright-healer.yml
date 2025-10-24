@@ -1,17 +1,16 @@
-name: Auto Fix with Playwright Healer Agent
+name: Playwright Healer Agent - Auto Fix
 
 on:
   issues:
-    types: [opened]
+    types: [opened, edited, reopened]
 
 jobs:
   heal:
     runs-on: ubuntu-latest
-
     permissions:
-      contents: write
-      issues: write
-
+      contents: write   # Allow auto-commit of fixes
+      issues: read      # Allow reading issue context
+      pull-requests: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -24,18 +23,31 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run Playwright Healer Agent
+      # 👇 Optional: print the issue data
+      - name: Fetch issue content
+        id: issue
+        uses: octokit/request-action@v2.x
+        with:
+          route: GET /repos/${{ github.repository }}/issues/${{ github.event.issue.number }}
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          npx playwright agent heal --auto-fix --commit \
-            --issue-number=${{ github.event.issue.number }} \
-            --comment "✅ Playwright Healer Agent analyzed and proposed fixes for this issue."
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push changes (if any)
+      - name: Show issue data
         run: |
-          git config user.name "Playwright Healer Agent"
-          git config user.email "agent@playwright.dev"
-          git add .
-          git commit -m "fix: automated healing by Playwright Agent" || echo "No changes"
-          git push origin main
+          echo "Title: ${{ fromJson(steps.issue.outputs.data).title }}"
+          echo "Body: ${{ fromJson(steps.issue.outputs.data).body }}"
+
+      # 👇 Run Playwright's Healer Agent to attempt a fix
+      - name: Initialize agents
+        run: npx playwright init-agents --loop opencode
+
+      - name: Auto-heal using Playwright Agent
+        run: npx playwright heal --auto-fix --commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push possible fixes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git push origin HEAD:${{ github.ref_name }}
