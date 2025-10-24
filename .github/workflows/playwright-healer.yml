@@ -1,0 +1,41 @@
+name: Auto Fix with Playwright Healer Agent
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  heal:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Playwright Healer Agent
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          npx playwright agent heal --auto-fix --commit \
+            --issue-number=${{ github.event.issue.number }} \
+            --comment "✅ Playwright Healer Agent analyzed and proposed fixes for this issue."
+
+      - name: Push changes (if any)
+        run: |
+          git config user.name "Playwright Healer Agent"
+          git config user.email "agent@playwright.dev"
+          git add .
+          git commit -m "fix: automated healing by Playwright Agent" || echo "No changes"
+          git push origin main
